@@ -1,2 +1,2 @@
-# Von-s-first-project
+# blank-project
 for personal practice
